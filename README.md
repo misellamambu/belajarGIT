@@ -8,4 +8,11 @@ Daftar tugas / branch
 7. Tugas-finalProject
    
 Daftar perintah GiT
-…
+git branch (nama branch)
+git switch (nama branch)
+git add (nama file).txt
+git commit -m "file dari branch (nama branch) telah di commit"
+git switch main
+git merge (nama branch)
+git log --oneline
+git push origin main
